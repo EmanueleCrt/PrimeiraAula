@@ -4,7 +4,7 @@ public class HelloWord{
   
   public HelloWord (String n){
     saudacao = n;
-    Syste.out.print(saudacao);
+    System.out.print(saudacao);
   }
   
 }
